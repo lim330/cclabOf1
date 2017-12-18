@@ -1,0 +1,13 @@
+﻿  ship.cpp
+c:\users\liuj2\documents\of\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\liuj2\documents\of\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liuj2\Documents\OF\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cclabship.vcxproj -> C:\Users\liuj2\Documents\OF\apps\myApps\cclabship\bin\cclabship_debug.exe
+  cclabship.vcxproj -> bin\cclabship_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\liuj2\Documents\OF\export\vs\x64\
